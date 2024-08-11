@@ -1,0 +1,71 @@
+John Doe  
+[Your Address]  
+[City, State, ZIP]  
+[Phone Number]  
+[Email Address]  
+[LinkedIn Profile]  
+[GitHub Profile]  
+
+Objective
+---------
+Seeking a challenging position as a Big Data Engineer, where I can utilize my skills in Hadoop ecosystem, data processing, and distributed computing to drive meaningful insights and solutions.
+
+Summary of Qualifications
+--------------------------
+- Extensive experience in designing, developing, and implementing big data solutions using Hadoop and its ecosystem tools like HDFS, MapReduce, Hive, Pig, and Spark.
+- Strong knowledge of data warehousing concepts and ETL processes.
+- Proficient in Java, Python, and Scala for writing custom MapReduce jobs and data processing scripts.
+- Hands-on experience with cloud-based big data solutions like AWS EMR, Google Cloud Dataproc, or Azure HDInsight.
+- Excellent problem-solving skills with a strong ability to work in a fast-paced, dynamic environment.
+
+Professional Experience
+------------------------
+Big Data Engineer | XYZ Company | [Start Date] - Present
+- Developed and implemented scalable data processing pipelines using Hadoop ecosystem tools.
+- Worked with HDFS to store and manage large datasets, ensuring high availability and data integrity.
+- Created and optimized MapReduce jobs to process and analyze data efficiently.
+- Integrated Hadoop with other data warehousing solutions, such as Hive and Pig, for advanced data querying and analysis.
+- Collaborated with data scientists and analysts to provide clean, reliable data for machine learning models and analytics.
+
+Hadoop Developer | ABC Corporation | [Start Date] - [End Date]
+- Built and maintained Hadoop clusters, ensuring optimal performance and resource utilization.
+- Wrote and maintained Hive scripts to manage and query large datasets.
+- Developed Pig scripts for ETL processes and data transformation.
+- Worked on improving the performance of MapReduce jobs by optimizing configuration settings and fine-tuning code.
+- Provided training and support to junior developers on Hadoop tools and best practices.
+
+Education
+---------
+Bachelor of Science in Computer Science | [University Name] | [Graduation Year]
+- Relevant Coursework: Data Structures, Algorithms, Distributed Systems, Database Management, Big Data Analytics.
+
+Certifications
+--------------
+- Cloudera Certified Hadoop Developer
+- AWS Certified Big Data - Specialty
+- Hortonworks Certified Apache Hadoop Developer
+
+Technical Skills
+----------------
+- Hadoop Ecosystem: HDFS, MapReduce, Hive, Pig, HBase, Spark
+- Programming Languages: Java, Python, Scala
+- Cloud Platforms: AWS EMR, Google Cloud Dataproc, Azure HDInsight
+- Data Warehousing: Apache Hive, Apache Impala, Apache Kudu
+- Tools: Apache Oozie, Apache Sqoop, Apache Flume
+- Version Control: Git, SVN
+
+Projects
+--------
+1. **Real-Time Data Processing with Spark and Kafka**  
+   - Developed a real-time data processing pipeline using Apache Spark and Kafka to ingest and process streaming data from IoT devices.
+   - Implemented Spark streaming jobs to aggregate and analyze data in near real-time.
+   - Deployed the solution on AWS EMR, ensuring scalability and fault tolerance.
+
+2. **Log Analysis using Hadoop and Hive**  
+   - Processed and analyzed terabytes of server log data using Hadoop and Hive to identify patterns and trends.
+   - Developed custom MapReduce jobs for parsing and aggregating log data.
+   - Built Hive tables to query and visualize the results, providing insights into user behavior and system performance.
+
+References
+----------
+Available upon request.
